@@ -1,4 +1,4 @@
-LOAD BALANCER IMPLEMENTED IN ERLANG
+# LOAD BALANCER IMPLEMENTED IN ERLANG
 
 This is a load balancer implemented in Erlang for unmanaged clusters.
 
