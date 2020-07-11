@@ -13,7 +13,7 @@ Make sure that you have described your nodes in a resource file.
 
 The next example is taken from "pi.sh" in this repository. The command line shows how to submit a job (any valid bash sequence) to the queueing server.
 
-Compute number $\pi$ with the precision of 5000 digits. Pipe a script into `bc` to do the actual job.
+Compute number $\pi$ with the precision of 5000 digits. Pipe a script into `bc` to do nubmer crunching.
 Return standard output in ".out" file.
 Return error output in ".err" file.
 Submit the job to the "express" queue. Queues have different priorities that can be changed at any time.
